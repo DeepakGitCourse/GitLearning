@@ -7,6 +7,7 @@ public class LoginPage {
 		System.out.println("defect fixed");
 		System.out.println("Defect 2 fixed");
 		System.out.println("defect3");
+		System.out.println("defect4");
 	}
 
 }
